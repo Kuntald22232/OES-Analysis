@@ -1,6 +1,6 @@
 import requests
 
-SPRING_BOOT_URL = "http://localhost:8080/api/results"
+SPRING_BOOT_URL = "https://onlineexamsystem2026.onrender.com/api/results"
 
 def get_data(reg_no):
     try:
