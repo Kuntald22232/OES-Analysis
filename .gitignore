@@ -1,0 +1,17 @@
+# virtual environment
+venv/
+env/
+oes/
+Lib/
+Scripts/
+site-packages/
+
+# python cache
+__pycache__/
+*.pyc
+
+# env file
+.env
+
+# system files
+.DS_Store
