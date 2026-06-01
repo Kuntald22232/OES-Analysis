@@ -1,5 +1,5 @@
 from pydantic import BaseModel
 
-class Result(BaseModel):
-    studentName: str
+class SubjectResult(BaseModel):
+    subject: str
     marks: int
